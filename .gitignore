@@ -1,0 +1,17 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+desktop.ini
+__MACOSX/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Local tests and secrets: never commit
+.env
+*.env
+.claude/settings.local.json
+prove/
+tmp/

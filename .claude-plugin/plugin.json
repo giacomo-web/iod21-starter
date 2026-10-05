@@ -1,0 +1,19 @@
+{
+  "name": "iod21-starter",
+  "displayName": "IOD21 Starter",
+  "version": "1.0.0",
+  "description": "Make Claude work for you instead of just chatting: a personal command center (CLAUDE.md map, STATO.md status board, memory), an end-of-day recap that keeps your status up to date, and email reply drafts that always wait for your ok. Italian first, works in English too.",
+  "author": {
+    "name": "IOD21 S.r.l.",
+    "email": "information@iod21.com",
+    "url": "https://app.iod21.com"
+  },
+  "homepage": "https://github.com/giacomo-web/iod21-starter",
+  "repository": "https://github.com/giacomo-web/iod21-starter",
+  "license": "MIT",
+  "keywords": ["italiano", "productivity", "non-developers", "memory", "recap", "email", "claude-md"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://github.com/giacomo-web/iod21-starter#readme",
+  "supportUrl": "https://github.com/giacomo-web/iod21-starter/issues",
+  "privacyPolicyUrl": "https://github.com/giacomo-web/iod21-starter/blob/main/PRIVACY.md"
+}

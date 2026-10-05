@@ -1,0 +1,15 @@
+{
+  "name": "iod21",
+  "description": "IOD21 plugins for Claude Code. Così si usa l'AI.",
+  "owner": {
+    "name": "IOD21 S.r.l.",
+    "email": "information@iod21.com"
+  },
+  "plugins": [
+    {
+      "name": "iod21-starter",
+      "source": "./",
+      "description": "Personal command center, end-of-day recap and email drafts that wait for your ok. Free starter of the IOD21 Kit."
+    }
+  ]
+}
