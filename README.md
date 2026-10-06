@@ -10,7 +10,7 @@ A Claude Code plugin that gives Claude a working folder, a memory and a status b
 
 People who use Claude for their work but do not write code: small business owners, freelancers, consultants, students. If every new Claude session starts from zero and you keep re-explaining who you are and what is open, this plugin is for you.
 
-The skills speak Italian by default and answer in English (or your language) when you write in English. The files they create use Italian headings (`STATO.md`, "Scadenze", "Da verificare"); you can rename them.
+**Language.** The skills are written in Italian, for Italian speakers. They trigger on English requests too ("let's wrap up", "draft a reply", "set up my command center") and email drafts come out in the language of the email, but the setup interview and the end-of-day recap currently tend to reply in Italian even when you write in English. The files they create use Italian headings (`STATO.md`, "Scadenze", "Da verificare"); you can rename them.
 
 ## What it installs
 
