@@ -3,6 +3,8 @@ name: centrale-personale
 description: Crea nella cartella di lavoro la "centrale" personale con il metodo IOD21, così Claude sa chi sei e cosa è aperto a ogni sessione. Fa 7 domande, una alla volta, come un onboarding, poi scrive solo dopo l'ok tre cose. Un CLAUDE.md che fa da mappa (chi sei, come lavori, cosa non deve mai fare). Uno STATO.md con scadenze e decisioni in attesa. Una memoria in memory/ con il suo indice. Usala quando l'utente vuole che Claude si ricordi di lui tra una sessione e l'altra, vuole impostare Claude per il suo lavoro, creare o rifare il suo CLAUDE.md, oppure dice "crea la mia centrale", "Claude non si ricorda niente", "set up my command center", "onboarding".
 ---
 
+**Language.** If the user writes in English, ask the questions, reply and write the files in English. Otherwise Italian.
+
 # Centrale personale
 
 Obiettivo: in 10 minuti la cartella di lavoro diventa il posto da cui la persona apre Claude ogni giorno. A ogni sessione Claude legge la mappa, sa cosa è aperto e ricorda le regole. Niente programmazione: solo file di testo che la persona può aprire e correggere quando vuole.

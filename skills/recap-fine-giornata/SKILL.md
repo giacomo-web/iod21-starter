@@ -3,6 +3,8 @@ name: recap-fine-giornata
 description: Chiude la giornata di lavoro con Claude. Scrive il recap in recap/AAAA-MM-GG_HHMM_argomento.md con quattro parti (fatto, decisioni, aperto con le date, file e link) e aggiorna STATO.md, spostando le cose chiuse e aggiungendo quelle nuove con la scadenza, così domani la sessione riparte da dove si era fermata senza rispiegare niente. Usala quando l'utente dice "chiudiamo", "per oggi basta", "fai il recap", "a domani", "end of day", "wrap up", oppure alla fine di un blocco di lavoro importante.
 ---
 
+**Language.** If the user writes in English, ask the questions, reply and write the files in English. Otherwise Italian.
+
 # Recap di fine giornata
 
 Lo scopo: domani una sessione nuova, o un collega, capisce in 30 secondi cosa è successo e cosa viene dopo. Rispondi nella lingua della persona. Non usare la lineetta lunga: usa virgole, due punti, punti.

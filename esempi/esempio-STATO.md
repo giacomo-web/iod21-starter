@@ -9,7 +9,7 @@ Aggiornato: 05/10/2026 11:54. Ogni sessione lo tiene aggiornato: quando una cosa
 |---|---|---|
 | gio 9/10 | Preventivo catering | Studio Ferri |
 | mar 6/10 | Chiamare il fornitore del forno nuovo | Forno nuovo |
-| ven 10/10 | Pagamento della farina | Fornitori |
+| sab 10/10 | Pagamento della farina | Fornitori |
 | mar 20/10 | Scegliere il fornitore del forno nuovo | Forno nuovo |
 | dom 1/11 | Apertura iscrizioni corso di Natale | Corso di Natale |
 
